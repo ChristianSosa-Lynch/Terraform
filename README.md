@@ -14,8 +14,8 @@ This repository contains a Terraform project for setting up an AWS infrastructur
 - `vars.tf` - Variables used in the Terraform configuration.
 - `vpc.tf` - Configuration for AWS VPC and subnets.
 - `web.sh` - Shell script for setting up a web server.
-- `dovekey` - Placeholder for the private key file.
-- `dovekey.pub` - Placeholder for the public key file.
+- `dovekey_example` - Placeholder for the private key file. (Search and replace dovekey with your key)
+- `dovekey_example.pub` - Placeholder for the public key file. (Search and replace dovekey.pub with your key)
 
 ## Prerequisites
 
